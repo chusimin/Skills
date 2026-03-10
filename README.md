@@ -1,6 +1,6 @@
 # AI 产品经理求职 Skills 工具箱
 
-一套在真实 AI PM 求职过程中打磨出来的 Claude Cowork Skills，覆盖从简历撰写、面试诊断到知识积累的完整链路。
+一套在真实 AI PM 求职过程中打磨出来的 Agent Skills，覆盖从简历撰写、面试诊断到知识积累的完整链路。
 
 ## 为什么做这套 Skills？
 
