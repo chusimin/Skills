@@ -29,6 +29,7 @@
 
 | Skill | 解决什么问题 | 典型使用场景 |
 |-------|------------|------------|
+| **product-insight-miner** | 想了解某个方向有没有机会、用户在抱怨什么、竞品有哪些痛点没解决 | "帮我挖掘一下AI写作工具的用户痛点"、"看看这个品类的产品机会" |
 | **ai-product-teardown** | 面试前需要拆解目标公司产品、入职后需要快速理解竞品全貌 | "帮我拆解一下 Cursor"、"分析一下这个 AI 产品的架构" |
 | **ai-agent-prd-writer** | 想积累 AI 产品设计作品、面试中被问"你怎么设计一个 AI 产品" | "帮我写一个智能客服 Agent 的 PRD"、"梳理一下这个需求" |
 | **48h-accelerated-learning** | 面试前需要短时间搞懂一个陌生领域、入职后快速建立新业务的认知全景图 | "帮我48小时搞懂多模态"、"快速入门自动驾驶领域" |
@@ -58,6 +59,7 @@
 
 - "帮我看看这个面试记录" → 自动触发**面试诊断**
 - "我想投这个岗位，简历怎么改" → 自动触发**简历优化**
+- "帮我看看AI写作工具的用户痛点" → 自动触发**产品灵感挖掘**
 - "帮我拆解一下 Kimi" → 自动触发**产品拆解**
 - "帮我写个 PRD" → 自动触发 **PRD 撰写**
 - "帮我48小时搞懂多模态" → 自动触发**加速学习**
@@ -71,14 +73,15 @@
 ```
 1. 速成领域 → 48h-accelerated-learning（48小时建立目标领域的认知全景图）
 2. 补知识 → interactive-learning（系统深入搞懂 RAG、Agent、评测体系等核心概念）
-3. 看产品 → ai-product-teardown（拆解目标公司和竞品的 AI 产品）
-4. 攒作品 → ai-agent-prd-writer（写出能拿得出手的 AI PRD）
-5. 写简历 → ai-pm-resume-writer（针对目标 JD 打磨简历）
-6. 打面试 → ai-pm-interview-diagnosis（面试后复盘，面试前备战）
-7. 沉淀 → obsidian-knowledge-saver（全程把学到的东西存下来）
+3. 挖需求 → product-insight-miner（从小红书/X/Reddit挖掘用户痛点和产品机会）
+4. 看产品 → ai-product-teardown（拆解目标公司和竞品的 AI 产品）
+5. 攒作品 → ai-agent-prd-writer（写出能拿得出手的 AI PRD）
+6. 写简历 → ai-pm-resume-writer（针对目标 JD 打磨简历）
+7. 打面试 → ai-pm-interview-diagnosis（面试后复盘，面试前备战）
+8. 沉淀 → obsidian-knowledge-saver（全程把学到的东西存下来）
 ```
 
-入职之后，**48h-accelerated-learning** 帮你快速搞懂新业务领域，**ai-product-teardown** 和 **interactive-learning** 继续帮你理解新产品和新技术。
+入职之后，**product-insight-miner** 帮你做市场调研和需求发现，**48h-accelerated-learning** 帮你快速搞懂新业务领域，**ai-product-teardown** 和 **interactive-learning** 继续帮你理解新产品和新技术。
 
 ## 关于
 
